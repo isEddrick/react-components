@@ -24,10 +24,16 @@
     "@umijs/preset-react": "1.x",
     "@umijs/test": "^3.2.27",
     "lint-staged": "^10.0.7",
-    "prettier": "^1.19.1",
+    "lodash-es": "^4.17.15",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "umi": "^3.2.27",
     "yorkie": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.3",
+    "@typescript-eslint/eslint-plugin-tslint": "^4.8.1",
+    "eslint": "^7.13.0",
+    "prettier": "^2.1.2"
   }
 }

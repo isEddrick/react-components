@@ -20,18 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="836fa198-d190-40a7-9d0c-e4b3756a1849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/moment-box-selection/index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/moment-box-selection/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/moment-box-selection/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/example/MomentSelect.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/example/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,10 +138,18 @@
       <screen x="-1080" y="-488" width="1080" height="1920" />
     </state>
     <state width="1036" height="215" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-488.1080.1920@-1080.-488.1080.1920" timestamp="1605680811664" />
+    <state x="-745" y="181" key="RollbackChangesDialog" timestamp="1605682661850">
+      <screen x="-1080" y="-488" width="1080" height="1920" />
+    </state>
+    <state x="-745" y="181" key="RollbackChangesDialog/0.0.1440.900/-1080.-488.1080.1920@-1080.-488.1080.1920" timestamp="1605682661850" />
     <state x="-1031" y="111" key="SettingsEditor" timestamp="1605670944791">
       <screen x="-1080" y="-488" width="1080" height="1920" />
     </state>
     <state x="-1031" y="111" key="SettingsEditor/0.0.1440.900/-1080.-488.1080.1920@-1080.-488.1080.1920" timestamp="1605670944791" />
+    <state x="-687" y="393" key="VCS.ChangelistChooser" timestamp="1605682678475">
+      <screen x="-1080" y="-488" width="1080" height="1920" />
+    </state>
+    <state x="-687" y="393" key="VCS.ChangelistChooser/0.0.1440.900/-1080.-488.1080.1920@-1080.-488.1080.1920" timestamp="1605682678475" />
     <state x="-980" y="-388" width="880" height="1720" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605670945080">
       <screen x="-1080" y="-488" width="1080" height="1920" />
     </state>
